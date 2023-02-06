@@ -1,0 +1,1 @@
+<img src="{{asset('assets/logo2.png')}}" alt="" {{ $attributes }}>
